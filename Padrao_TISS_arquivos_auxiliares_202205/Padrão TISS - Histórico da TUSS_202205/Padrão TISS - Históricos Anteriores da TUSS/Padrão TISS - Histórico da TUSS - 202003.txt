@@ -1,0 +1,17 @@
+Competência	Código da terminologia	Nome da terminologia	Código do Termo	Termo	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Março/2020	22	Terminologia de procedimentos e eventos em saúde	40314618	Coronavírus Covid-19, pesquisa por método molecular	13/03/2020		13/03/2020	Incluído
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312364	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312372	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312380	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312399	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312402	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40314340	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40323862	Consolidado	10/10/2012	12/03/2020	31/08/2014	Inativado por Alteração
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312364	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312372	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312380	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312399	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40312402	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40314340	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40323862	Individualizado	13/03/2020		13/03/2020	Alterado
+Março/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40314618	Individualizado	13/03/2020		13/03/2020	Incluído

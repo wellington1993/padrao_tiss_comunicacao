@@ -1,0 +1,113 @@
+Competência	Código da terminologia	Nome da terminologia	Código do Termo	Termo	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Mai/2013	22	Terminologia de Procedimentos e eventos em saúde	40501248	CITOGENÉTICA DE MEDULA ÓSSEA	10/10/2012	31/07/2013	30/11/2013	Inativado
+Mai/2013	22	Terminologia de Procedimentos e eventos em saúde	40314251	CITOGENÉTICA DE MEDULA ÓSSEA	13/02/2009		15/10/2010	Incluído
+Mai/2013	22	Terminologia de Procedimentos e eventos em saúde	40808200	MARCAÇÃO PRÉ-CIRÚRGICA POR NÓDULO - MÁXIMO DE 3 NÓDULOS POR MAMA, POR US (NÃO INCLUI EXAME DE IMAGEM)	10/10/2012		30/11/2013	Inativado
+Mai/2013	22	Terminologia de Procedimentos e eventos em saúde	40808203	MARCAÇÃO PRÉ-CIRÚRGICA POR NÓDULO - MÁXIMO DE 3 NÓDULOS POR MAMA, POR US (NÃO INCLUI EXAME DE IMAGEM)	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1025	BENEFICIÁRIO NÃO POSSUI COBERTURA PARA ASSISTÊNCIA ODONTOLÓGICA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1213	CBO-S (ESPECIALIDADE) INVÁLIDO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1213	CBO (ESPECIALIDADE) INVÁLIDO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1322	COMPROVANTE PRESENCIAL OU GTO NÃO ENVIADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1323	DATA PREENCHIDA INCORRETAMENTE	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1437	SENHA DE AUTORIZAÇÃO CANCELADA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1438	PROCEDIMENTO SOLICITADO NÃO AUTORIZADO POR NÃO ATENDER A DIRETRIZ DE UTILIZAÇÃO (DUT) DO ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1734	COBRADO CONTA ABERTA, PAGO O PACOTE CONFORME NEGOCIAÇÃO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1735	COBRANÇA DE PACOTE NÃO NEGOCIADO COM O PRESTADOR	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1736	CONTA AGUARDANDO NEGOCIAÇÃO PARA PAGAMENTO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1737	DIFERENÇA DEVE SER COBRADA DO BENEFICIÁRIO PELO PRESTADOR COMO FRANQUIA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1738	DOCUMENTO FISCAL NÃO ENVIADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1739	DUPLICIDADE DE CONTA DEVIDO A PERIODO COBRADO JÁ EFETUADO EM OUTRA PARCIAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1740	ESTORNO DO VALOR DE PROCEDIMENTO PAGO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1741	HONORÁRIO OU PROCEDIMENTO JÁ PAGO A OUTRO PRESTADOR	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1742	HONORÁRIO OU PROCEDIMENTO JÁ PAGO POR REEMBOLSO AO BENEFICIÁRIO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1743	NÃO HÁ NEGOCIAÇÃO PARA COBRANÇA DO KIT, DISCRIMINAR POR ITENS	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1744	NEGOCIAÇÃO DIFERENCIADA DEVIDO A LIMINAR	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1745	PAGAMENTO DA EQUIPE CONFORME RELATÓRIO DO CIRURGIÃO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1746	PERCENTUAL DE ACRÉSCIMO DIFERENTE DO NEGOCIADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1747	PLANO DO BENEFICIÁRIO E O TIPO DE ACOMODAÇÃO NÃO PERMITEM ACRÉSCIMO DE HONORÁRIOS	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1748	PROCEDIMENTO NÃO CARACTERIZA URGÊNCIA/EMÊRGENCIA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1749	RELATÓRIO DE AUDITORIA NÃO ENVIADO NA CONTA.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1838	GRAU DE PARTICIPAÇÃO INFORMADO INCOMPATÍVEL COM EVENTO COBRADO.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1839	NECESSÁRIO ENVIO DO RESULTADO DO EXAME ANÁTOMO PATOLÓGICO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1840	PROCEDIMENTO EXECUTADO ANTES DA AUTORIZAÇÃO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1917	FALTA PRORROGAÇÃO PARA QUANTIDADE DE DIÁRIAS COBRADAS.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	1918	PLANO DO BENEFICIÁRIO NÃO CONTEMPLA DIÁRIA DE ACOMPANHANTE	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2015	MATERIAL NÃO AUTORIZADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2115	MEDICAMENTO NÃO AUTORIZADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2201	OPM INVÁLIDO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2201	OPME INVÁLIDO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2202	OPM SEM COBERTURA PARA ATENDIMENTO AMBULATORIAL	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2202	OPME SEM COBERTURA PARA ATENDIMENTO AMBULATORIAL	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2203	OPM SEM NOTA FISCAL DO FORNECEDOR	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2203	OPME SEM NOTA FISCAL DO FORNECEDOR	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2204	QUANTIDADE DE OPM DEVE SER MAIOR QUE ZERO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2204	QUANTIDADE DE OPME DEVE SER MAIOR QUE ZERO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2205	OPM INFORMADO NÃO COBERTO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2205	OPME INFORMADO NÃO COBERTO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2206	OPM INFORMADO NÃO AUTORIZADO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2206	OPME INFORMADO NÃO AUTORIZADO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2207	COBRANÇA DE OPM NÃO UTILIZADO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2207	COBRANÇA DE OPME NÃO UTILIZADO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2208	COBRANÇA DE OPM NO ITEM MATERIAL E MEDICAMENTOS.	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2208	COBRANÇA DE OPME NO ITEM MATERIAL E MEDICAMENTOS.	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2209	COBRANÇA DE OPM EM DESACORDO COM RELATÓRIO TÉCNICO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2209	COBRANÇA DE OPME EM DESACORDO COM RELATÓRIO TÉCNICO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2210	COBRANÇA DE OPM EM QUANTIDADE INCOMPATÍVEL COM O PROCEDIMENTO REALIZADO	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2210	COBRANÇA DE OPME EM QUANTIDADE INCOMPATÍVEL COM O PROCEDIMENTO REALIZADO	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2211	COBRANÇA DE OPM INCLUSA NO PACOTE	16/11/2006	30/04/2013	16/11/2006	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2211	COBRANÇA DE OPME INCLUSA NO PACOTE	01/05/2013		16/11/2006	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2212	OPME EM DESACORDO COM OS CRITÉRIOS TÉCNICOS ADOTADOS PELA OPERADORA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2213	OPME PAGO A FORNECEDOR TERCEIRIZADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	2909	PRAZO PARA SOLICITAÇÃO DE RECURSO DE GLOSA PRESCRITO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3031	RX FORA DOS PADRÕES TÉCNICOS	11/05/2007	30/04/2013	11/05/2007	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3031	RADIOGRAFIA FORA DOS PADRÕES TÉCNICOS	01/05/2013		11/05/2007	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3038	RX INICIAL INCONGRUENTE COM A RADIOGRAFIA FINAL	11/05/2007	30/04/2013	11/05/2007	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3038	RADIOGRAFIA INICIAL INCONGRUENTE COM A RADIOGRAFIA FINAL	01/05/2013		11/05/2007	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3039	RX NÃO CORRESPONDE AO PROCEDIMENTO COBRADO	11/05/2007	30/04/2013	11/05/2007	Inativado por alteração
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3039	RADIOGRAFIA NÃO CORRESPONDE AO PROCEDIMENTO COBRADO	01/05/2013		11/05/2007	Alterado
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3041	AGUARDANDO DOCUMENTAÇÃO DE ORTODONTIA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3042	APÓS ANÁLISE DA RADIOGRAFIA INICIAL VERIFICOU-SE EXODONTIA DE INCLUSO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3043	APÓS ANÁLISE DA RADIOGRAFIA INICIAL VERIFICOU-SE EXODONTIA DE SEMI-INCLUSO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3044	APÓS ANÁLISE DA RADIOGRAFIA INICIAL VERIFICOU-SE EXODONTIA SIMPLES	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3045	APÓS ANÁLISE DA RADIOGRAFIA INICIAL, VERIFICOU-SE EXODONTIA DE FRAGMENTO RADICULAR	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3046	AUDITORIA FINAL CONSTA QUE O PROCEDIMENTO FOI REALIZADO COM OUTRO MATERIAL 	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3047	AUSÊNCIA DE IMAGEM/FOTO/RADIOGRAFIA/ DIAGNÓSTICO PÓS PROCEDIMENTO ODONTOLÓGICO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3048	CANCELAMENTO DO PROCEDIMENTO ODONTOLÓGICO POR SOLICITAÇÃO DO BENEFICIÁRIO.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3049	CANCELAMENTO DO PROCEDIMENTO ODONTOLÓGICO POR SOLICITAÇÃO DO PRESTADOR.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3050	COBRANÇA DE URGÊNCIA/EMERGÊNCIA NA VIGÊNCIA DO TRATAMENTO ODONTOLÓGICO.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3051	DOCUMENTAÇÃO EM ANÁLISE	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3052	DOCUMENTAÇÃO INCOMPLETA, INCORRETA OU AUSENTE	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3053	ELEMENTOS PODEM SER VISUALIZADOS EM UMA MESMA PELÍCULA.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3054	IDENTIFICADO CONDUTO(S) NÃO OBTURADO(S)	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3055	IDENTIFICADO TRATAMENTO ENDODÔNTICO E NÃO RETRATAMENTO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3056	NA AUDITORIA FOI CONSTATADA DIVERGÊNCIA NA QUANTIDADE DE FACES RESTAURADAS	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3057	NÃO APRESENTA A QUANTIDADE MÍNIMA DE ELEMENTOS DENTÁRIOS POR SEGMENTO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3058	NECESSÁRIA AUDITORIA FINAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3059	NECESSÁRIA AUDITORIA INICIAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3060	NECESSÁRIA AUDITORIA INTERMEDIÁRIA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3061	NECESSÁRIA AVALIAÇÃO DO ESPECIALISTA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3062	NECESSÁRIO ENVIAR LAUDO OU RELATÓRIO TÉCNICO SOBRE O TRATAMENTO SOLICITADO.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3063	O PLANO DE TRATAMENTO AUTORIZADO SERÁ CANCELADO DEVIDO À TROCA DE PROFISSIONAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3064	PROCEDIMENTO AUTORIZADO APENAS PARA DENTES TRATADOS ENDODONTICAMENTE	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3065	PROCEDIMENTO AUTORIZADO SOMENTE PARA DENTES ANTERIORES	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3066	PROCEDIMENTO EM DESACORDO COM O ANEXO GUIA TRATAMENTO ODONTOLÓGICO SITUAÇÃO INICIAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3067	RADIOGRAFIA FINAL NÃO ENVIADA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3068	RADIOGRAFIA FINAL SEM DISSOCIAÇÃO DOS CONDUTOS	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3069	RADIOGRAFIA INDICA A NECESSIDADE DE TRATAMENTO ENDODONTICO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3070	RADIOGRAFIA INDICA A PRESENÇA DE RAIZ RESIDUAL NO ALVEOLO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3071	RADIOGRAFIA INDICA AUSENCIA DE NÚCLEO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3072	RADIOGRAFIA INDICA CANAL(AIS) NÃO OBTURADO(S)	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3073	RADIOGRAFIA INDICA DESVIO DA TRAJETORIA DO CANAL 	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3074	RADIOGRAFIA INDICA EXCESSO DE MATERIAL	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3075	RADIOGRAFIA INDICA FALHA NA OBTURAÇÃO DO(S) CONDUTO(S)	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3076	RADIOGRAFIA INDICA FALTA DE ADAPTAÇÃO DA COROA/NÚCLEO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3077	RADIOGRAFIA INDICA FALTA DE ADAPTAÇÃO DA COROA/PEÇA PROTÉTICA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3078	RADIOGRAFIA INDICA NÚCLEO INADEQUADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3079	RADIOGRAFIA INDICA TRATAMENTO ENDODÔNTICO E NÃO RETRATATAMENTO  ENDODÔNTICO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3080	RADIOGRAFIA INICIAL E FINAL NÃO ENVIADA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3081	RADIOGRAFIA INICIAL NÃO ENVIADA	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3082	RADIOGRAFIA/IMAGEM INDICA FALHA NA RESTAURAÇÃO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3083	REAVALIAR O PLANO DE TRATAMENTO OBSERVANDO CRITÉRIOS DE INDICAÇÃO, OPORTUNIDADE E VIABILIDADE.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3084	RELATÓRIO ANALISE TÉCNICA SEM CARIMBO/ASSINATURA DO  PRESTADOR	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3085	RADIOGRAFIA NÃO CORRESPONDE AO PROCEDIMENTO SOLICITADO	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	3086	TRATAMENTO ODONTOLÓGICO NÃO CARACTERIZADO COMO URGÊNCIA.	01/05/2013		30/11/2013	Incluído
+Mai/2013	38	Terminologia de Mensagens (glosas, negativas e outras)	5099	ERRO NÃO IDENTIFICADO	16/11/2006	30/04/2013	16/11/2006	Inativado

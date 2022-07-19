@@ -1,0 +1,123 @@
+Competência	Código da terminologia	Nome da terminologia	Código do Termo	Termo	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Junho/2020	22	Terminologia de procedimentos e eventos em saúde	40324770	SARS-CoV-2 (Coronavírus COVID-19), pesquisa de anticorpos IgA, IgG ou IgM (cada par)	01/07/2020		01/07/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495532	Implante Mamário Liso	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495540	Implante Mamário Liso - 22622-265MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495559	Implante Mamário Liso - 22622-315MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495567	Implante Mamário Liso - 22622-265XH	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495575	Implante Mamário Liso - 22622-515MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495583	Implante Mamário Liso - 22622-390MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495591	Implante Mamário Liso - 22622-315XH	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495605	Implante Mamário Liso - 22622-415XH	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495613	Implante Mamário Liso - 22622-365MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495621	Implante Mamário Liso - 22622-175LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495630	Implante Mamário Liso - 22622-575MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495648	Implante Mamário Liso - 22622-190LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495656	Implante Mamário Liso - 22622-225LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495664	Implante Mamário Liso - 22622-285LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495672	Implante Mamário Liso - 22622-640XH	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495680	Implante Mamário Liso - 22622-315LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495699	Implante Mamário Liso - 22622-230MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495702	Implante Mamário Liso - 22622-290MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495710	Implante Mamário Liso - 22622-480XH	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495729	Implante Mamário Liso - 22622-450MD	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495737	Implante Mamário Liso - 22622-400HI	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495745	Implante Mamário Liso - 22622-380LO	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495753	Implante Mamário Liso - 22622-275HI	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495761	Implante Mamário Liso - 22622-455HI	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495532	CATETERES GUIAS - 77825290	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495540	CATETERES GUIAS - 77825400B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495559	CATETERES GUIAS - 77825690	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495567	CATETERES GUIAS - 77825600	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495575	CATETERES GUIAS - 77825200B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495583	CATETERES GUIAS - 77825890	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495591	CATETERES GUIAS - 77825290B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495605	CATETERES GUIAS - 77824800B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495613	CATETERES GUIAS - 77825400	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495621	CATETERES GUIAS - 77825890B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495630	CATETERES GUIAS - 77824890	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495648	CATETERES GUIAS - 77824890B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495656	CATETERES GUIAS - 77825490	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495664	CATETERES GUIAS - 77825600B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495672	CATETERES GUIAS - 77826090	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495680	CATETERES GUIAS - 77825200	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495699	CATETERES GUIAS - 77826000B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495702	CATETERES GUIAS - 77825490B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495710	CATETERES GUIAS - 77825800	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495729	CATETERES GUIAS - 77824800	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495737	CATETERES GUIAS - 77826090B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495745	CATETERES GUIAS - 77825690B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495753	CATETERES GUIAS - 77826000	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495761	CATETERES GUIAS - 77825800B	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	19	Termnologia de OPME	80495770	CATETERES GUIAS - 77825290	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495788	CATETERES GUIAS - 77825400B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495796	CATETERES GUIAS - 77825690	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495800	CATETERES GUIAS - 77825600	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495818	CATETERES GUIAS - 77825200B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495826	CATETERES GUIAS - 77825890	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495834	CATETERES GUIAS - 77825290B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495842	CATETERES GUIAS - 77824800B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495850	CATETERES GUIAS - 77825400	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495869	CATETERES GUIAS - 77825890B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495877	CATETERES GUIAS - 77824890	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495885	CATETERES GUIAS - 77824890B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495893	CATETERES GUIAS - 77825490	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495907	CATETERES GUIAS - 77825600B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495915	CATETERES GUIAS - 77826090	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495923	CATETERES GUIAS - 77825200	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495931	CATETERES GUIAS - 77826000B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495940	CATETERES GUIAS - 77825490B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495958	CATETERES GUIAS - 77825800	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495966	CATETERES GUIAS - 77824800	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495974	CATETERES GUIAS - 77826090B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495982	CATETERES GUIAS - 77825690B	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80495990	CATETERES GUIAS - 77826000	01/07/2020		30/09/2020	Incluído
+Junho/2020	19	Termnologia de OPME	80496008	CATETERES GUIAS - 77825800B	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	40324770	Individualizado	01/07/2020		01/07/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495532	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495540	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495559	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495567	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495575	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495583	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495591	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495605	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495613	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495621	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495630	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495648	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495656	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495664	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495672	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495680	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495699	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495702	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495710	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495729	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495737	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495745	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495753	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495761	Consolidado	01/06/2020	30/06/2020	31/08/2020	Inativado
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495770	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495788	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495796	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495800	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495818	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495826	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495834	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495842	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495850	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495869	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495877	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495885	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495893	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495907	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495915	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495923	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495931	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495940	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495958	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495966	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495974	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495982	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80495990	Consolidado	01/07/2020		30/09/2020	Incluído
+Junho/2020	64	Terminologia de Forma de Envio de Dados para a ANS	80496008	Consolidado	01/07/2020		30/09/2020	Incluído

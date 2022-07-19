@@ -1,0 +1,5 @@
+Competência	Código da terminologia	Nome da terminologia	Código do Termo	Termo	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Abril/2020	50	Terminologia de Tipo de Atendimento	22	TELESSAÚDE	03/04/2020		03/04/2020	Incluído
+Abril/2020	69	Terminologia de versão do componente de comunicação do padrão	022	03.05.00	03/04/2020		03/04/2020	Incluído
+Abril/2020	22	Terminologia de procedimentos e eventos em saúde	40314618	Coronavírus Covid-19, pesquisa por método molecular	13/03/2020	02/04/2020	13/03/2020	Inativado por alteração
+Abril/2020	22	Terminologia de procedimentos e eventos em saúde	40314618	SARS-CoV-2 (CORONAVÍRUS COVID-19) - PESQUISA POR RT - PCR	03/04/2020		13/03/2020	Alterado

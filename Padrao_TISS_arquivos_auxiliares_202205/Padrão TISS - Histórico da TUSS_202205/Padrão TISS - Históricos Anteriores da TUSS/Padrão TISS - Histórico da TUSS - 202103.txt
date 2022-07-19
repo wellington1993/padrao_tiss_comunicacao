@@ -1,0 +1,725 @@
+Competência	Código da terminologia	Nome da terminologia	Código TUSS	Forma de envio	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20101201	Avaliação clínica e eletrônica de paciente portador de marca-passo ou sincronizador ou desfibrilador	13/02/2009	31/03/2021	15/10/2010	Inativado por Alteração
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30310040	Cirurgias fistulizantes com implantes valvulares	13/02/2009	31/03/2021	15/10/2010	Inativado por Alteração
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30918081	Ablação percutânea por cateter para tratamento de arritmias cardíacas complexas (Fibrilação atrial, Taquicardia Ventricular com modificação de cicatriz, Taquicardias Atriais Macrorreentrantes com modificaçõa de cicatriz) por energia de radiofrequência	10/04/2017	31/03/2021	09/07/2017	Inativado por Alteração
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	31101275	Nefrolitotripsia percutânea unilateral (MEC., E.H., ou US)	13/02/2009	31/03/2021	15/10/2010	Inativado por Alteração
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	31506011	Transplante renal (receptor)	13/02/2009	31/03/2021	15/10/2010	Inativado por Alteração
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20101201	Avaliação clínica e eletrônica de paciente portador de dispositivo cardíaco eletrônico implantável (marca-passo, estimulador multissítio/ressincronizador, desfibrilador ou monitor de eventos)	01/04/2021		15/10/2010	Alterado
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30310040	Cirurgias fistulizantes antiglaucomatosas com ou sem implantes de drenagem	01/04/2021		15/10/2010	Alterado
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30918081	Ablação percutânea por cateter para tratamento de arritmias cardíacas complexas (fibrilação atrial, taquicardia ventricular com modificação de cicatriz, taquicardias atriais macrorrentrantes com modificação de cicatriz), por energia de radiofrequência ou crioablação	01/04/2021		09/07/2017	Alterado
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	31101275	"Nefrolitotripsia percutânea (pneumática ou pneumático-balística – MEC; eletrohidráulica -  E.H.; OU ultrassom - U.S.)"	01/04/2021		15/10/2010	Alterado
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	31506011	Transplante renal (receptor e doador vivo ou doador falecido)	01/04/2021		15/10/2010	Alterado
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20104448	Terapia de pressão negativa - ambulatorial	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30102014	Terapia de pressão negativa - cirúrgica	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30101972	Abdominoplastia pós bariátrica	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30715598	Artroplastia discal de coluna vertebral	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30918073	 Ablação percutânea por cateter para tratamento de arritmias cardíacas por energia de radiofrequência ou crioablação	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30912296	Implante transcateter de prótese valvar aórtica (TAVI)	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	40322572	Determinação da razão dos níveis séricos in vitro da tirosina-quinase-1 semelhante a fms solúvel (sFlt-1): fator de crescimento placentário (PlGF) por eletroquimioluminescência	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	40303330	Dosagem fecal de calprotectina	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	40324648	Ensaio para dosagem da liberação de interferon gama	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	50001183	Sessão em psicologia individual	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	50001191	Sessão em psicologia em grupo	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	50001205	Consulta com enfermeiro obstetra ou obstetriz	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20104480	Terapia anti-reabsortiva óssea intravenosa - ambulatorial  	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20104510	Terapia imunobiológica intramuscular (por sessão) - ambulatorial	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20204205	Terapia anti-reabsortiva óssea intravenosa - hospitalar	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	20204230	Terapia imunobiológica intramuscular (por sessão) - hospitalar	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30208157	Osteotomia da mandíbula e/ou maxila com aplicação de osteodistrator	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	30909155	Hemodialfiltração online (HDF-OL)	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	40602010	PD-L1 - Detecção por técnicas imunoistoquímicas	01/04/2021		30/06/2021	Incluído
+Março/2021	22	Terminologia de procedimentos e eventos em saúde	41203216	Radioterapia intra-operatória por elétrons (IOeRT) - por tratamento	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40201341	Consolidado	10/10/2012	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40323986	Consolidado	10/10/2012	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40601170	Consolidado	10/10/2012	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40601170	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40201341	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40323986	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104448	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30102014	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30715598	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30918073	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30912296	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40322572	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40303330	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324648	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	50001183	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	50001191	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	50001205	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104480	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104510	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20204205	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20204230	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30101972	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30208157	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30909155	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40602010	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41203216	Individualizado	01/04/2021		30/06/2021	Incluído
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003519	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003527	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003535	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003560	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90007026	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90022742	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90055551	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90055560	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90069099	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072537	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072618	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072626	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90078977	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90079396	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90116968	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90118740	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90137213	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90137230	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90175824	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90208005	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90212380	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90212401	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90240677	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90240685	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250567	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250575	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250583	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250591	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90259106	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90267249	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90267257	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90280628	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90280725	Consolidado	01/12/2013	31/03/2021	31/08/2014	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90297474	Consolidado	01/01/2016	31/03/2021	31/03/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90297482	Consolidado	01/01/2016	31/03/2021	31/03/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90301838	Consolidado	01/01/2016	31/03/2021	31/03/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90312139	Consolidado	01/01/2016	31/03/2021	31/03/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90322860	Consolidado	01/01/2016	31/03/2021	31/03/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90339630	Consolidado	01/06/2016	31/03/2021	31/08/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90352408	Consolidado	01/10/2016	31/03/2021	31/12/2016	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90362187	Consolidado	10/04/2017	31/03/2021	09/07/2017	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90374495	Consolidado	01/01/2018	31/03/2021	31/03/2018	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90395700	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396901	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396910	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396928	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396936	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396944	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396952	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90397070	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90399455	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90399463	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400089	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400097	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400100	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400119	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400143	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400151	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400160	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404084	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404220	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404246	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408829	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408837	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408845	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408853	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90409990	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90414993	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415302	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415310	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415957	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415965	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415973	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415981	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417356	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417364	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417372	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420616	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420624	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420632	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420640	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420659	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420667	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420675	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420683	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90421370	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424166	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424174	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424999	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426002	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426029	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426037	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426045	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426053	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426096	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426100	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426118	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427297	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427300	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427319	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427327	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429028	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429052	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429060	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429265	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429273	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429281	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429443	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429451	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429524	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429532	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429540	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429559	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430255	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430557	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430565	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430620	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430638	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430646	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430654	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430662	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430670	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430689	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430697	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430700	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430719	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430727	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430735	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431138	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431170	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431189	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431197	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431200	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431219	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431227	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90432088	Consolidado	01/06/2019	31/03/2021	31/08/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435567	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435575	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435966	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435974	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90438698	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90438701	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439309	Consolidado	01/10/2019	31/03/2021	31/12/2019	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439562	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439570	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439589	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439597	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439740	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439759	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90440498	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90440501	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90441907	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442326	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442334	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442962	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443411	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443420	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443438	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443446	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443560	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443578	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443586	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444060	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444078	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444086	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444450	Consolidado	01/01/2020	31/03/2021	31/03/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444604	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444612	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445252	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445783	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445805	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446496	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446500	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446518	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446895	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446950	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90449410	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90449428	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450019	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450167	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450175	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450183	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450191	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450310	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450329	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450337	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450485	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450531	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451538	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451546	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451554	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452348	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452470	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452569	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452577	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452585	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452674	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452682	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452690	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453034	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453042	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453050	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453069	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453077	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453123	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453190	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453204	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453310	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453328	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455630	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455673	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455711	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455720	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455738	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455800	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455835	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455916	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455924	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455975	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456343	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456351	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456556	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456858	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456866	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457188	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457196	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457315	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458354	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458362	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458451	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458460	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458478	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458567	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90459210	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90459393	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90460529	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90461916	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90462416	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90462424	Consolidado	01/06/2020	31/03/2021	31/08/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90465369	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90465601	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90466462	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90470206	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471091	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471105	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471113	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471121	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471130	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471148	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471156	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471164	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471296	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474287	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474295	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474309	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474317	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475135	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475755	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475763	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475933	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477146	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477154	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477162	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477170	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477774	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477782	Consolidado	01/09/2020	31/03/2021	30/11/2020	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90479483	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90479564	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481135	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481143	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481151	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481160	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481178	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481186	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482174	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482182	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482557	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482565	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482573	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482581	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482590	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482603	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90483103	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90483111	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485564	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485572	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485580	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487435	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487443	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487451	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487460	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487478	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487486	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487494	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487508	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487516	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487532	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487699	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487702	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90488407	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90488415	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90489250	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90489268	Consolidado	01/11/2020	31/03/2021	31/01/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90490436	Consolidado	01/01/2021	31/03/2021	31/03/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90490444	Consolidado	01/01/2021	31/03/2021	31/03/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90491238	Consolidado	01/01/2021	31/03/2021	31/03/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90492803	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90492811	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493117	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493125	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493281	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493290	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493648	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494970	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494989	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494997	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90495004	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90496280	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90496990	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90497171	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499000	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499557	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499565	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499573	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499581	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499590	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499603	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499611	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499620	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499700	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501306	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501314	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501322	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501330	Consolidado	01/03/2021	31/03/2021	31/05/2021	Inativado por Alteração
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003519	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003527	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003535	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90003560	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90007026	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90022742	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90055551	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90055560	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90069099	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072537	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072618	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90072626	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90078977	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90079396	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90116968	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90118740	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90137213	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90137230	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90175824	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90208005	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90212380	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90212401	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90240677	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90240685	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250567	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250575	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250583	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90250591	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90259106	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90267249	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90267257	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90280628	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90280725	Individualizado	01/04/2021		31/08/2014	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90297474	Individualizado	01/04/2021		31/03/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90297482	Individualizado	01/04/2021		31/03/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90301838	Individualizado	01/04/2021		31/03/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90312139	Individualizado	01/04/2021		31/03/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90322860	Individualizado	01/04/2021		31/03/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90339630	Individualizado	01/04/2021		31/08/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90352408	Individualizado	01/04/2021		31/12/2016	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90362187	Individualizado	01/04/2021		09/07/2017	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90374495	Individualizado	01/04/2021		31/03/2018	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90395700	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396901	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396910	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396928	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396936	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396944	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90396952	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90397070	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90399455	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90399463	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400089	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400097	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400100	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400119	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400143	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400151	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90400160	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404084	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404220	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90404246	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408829	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408837	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408845	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90408853	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90409990	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90414993	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415302	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415310	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415957	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415965	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415973	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90415981	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417356	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417364	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90417372	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420616	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420624	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420632	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420640	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420659	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420667	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420675	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90420683	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90421370	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424166	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424174	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90424999	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426002	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426029	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426037	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426045	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426053	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426096	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426100	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90426118	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427297	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427300	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427319	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90427327	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429028	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429052	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429060	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429265	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429273	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429281	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429443	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429451	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429524	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429532	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429540	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90429559	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430255	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430557	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430565	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430620	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430638	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430646	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430654	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430662	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430670	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430689	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430697	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430700	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430719	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430727	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90430735	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431138	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431170	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431189	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431197	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431200	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431219	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90431227	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90432088	Individualizado	01/04/2021		31/08/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435567	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435575	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435966	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90435974	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90438698	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90438701	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439309	Individualizado	01/04/2021		31/12/2019	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439562	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439570	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439589	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439597	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439740	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90439759	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90440498	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90440501	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90441907	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442326	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442334	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90442962	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443411	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443420	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443438	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443446	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443560	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443578	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90443586	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444060	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444078	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444086	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444450	Individualizado	01/04/2021		31/03/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444604	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90444612	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445252	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445783	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90445805	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446496	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446500	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446518	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446895	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90446950	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90449410	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90449428	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450019	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450167	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450175	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450183	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450191	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450310	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450329	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450337	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450485	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90450531	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451538	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451546	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90451554	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452348	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452470	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452569	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452577	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452585	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452674	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452682	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90452690	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453034	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453042	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453050	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453069	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453077	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453123	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453190	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453204	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453310	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90453328	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455630	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455673	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455711	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455720	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455738	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455800	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455835	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455916	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455924	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90455975	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456343	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456351	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456556	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456858	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90456866	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457188	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457196	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90457315	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458354	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458362	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458451	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458460	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458478	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90458567	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90459210	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90459393	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90460529	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90461916	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90462416	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90462424	Individualizado	01/04/2021		31/08/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90465369	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90465601	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90466462	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90470206	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471091	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471105	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471113	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471121	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471130	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471148	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471156	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471164	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90471296	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474287	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474295	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474309	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90474317	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475135	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475755	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475763	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90475933	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477146	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477154	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477162	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477170	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477774	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90477782	Individualizado	01/04/2021		30/11/2020	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90479483	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90479564	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481135	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481143	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481151	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481160	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481178	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90481186	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482174	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482182	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482557	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482565	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482573	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482581	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482590	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90482603	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90483103	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90483111	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485564	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485572	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90485580	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487435	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487443	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487451	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487460	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487478	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487486	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487494	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487508	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487516	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487532	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487699	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90487702	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90488407	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90488415	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90489250	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90489268	Individualizado	01/04/2021		31/01/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90490436	Individualizado	01/04/2021		31/03/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90490444	Individualizado	01/04/2021		31/03/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90491238	Individualizado	01/04/2021		31/03/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90492803	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90492811	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493117	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493125	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493281	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493290	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90493648	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494970	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494989	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90494997	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90495004	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90496280	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90496990	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90497171	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499000	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499557	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499565	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499573	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499581	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499590	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499603	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499611	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499620	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90499700	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501306	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501314	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501322	Individualizado	01/04/2021		31/05/2021	Alterado
+Março/2021	64	Terminologia de Forma de Envio de Dados para a ANS	90501330	Individualizado	01/04/2021		31/05/2021	Alterado

@@ -1,0 +1,445 @@
+Competência	Código da terminologia	Nome da terminologia	Código do Termo	Termo	Data de início de vigência	Data de fim de vigência	Data de fim de implantação	Tipo de Ação
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30307147	Tratamento ocular quimioterápico com anti-angiogênico. Programa de 24 meses. Uma sessão por mês (por sessão)	10/10/2012	31/07/2021	31/08/2014	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912156	Punção saco pericárdico com introdução de cateter multipolar no espaço pericárdico	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912164	Punção transeptal com introdução de cateter multipolar nas camaras esquerdas e/ou veias pulmonares	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303102	Histerectomia total - qualquer via	13/02/2009	31/07/2021	15/10/2010	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303188	Histeroscopia com ressectoscópio para miomectomia, polipectomia, metroplastia, endometrectomia e ressecção de sinéquias	13/02/2009	31/07/2021	15/10/2010	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309046	Cerclagem do colo uterino (qualquer técnica)	13/02/2009	31/07/2021	15/10/2010	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40403122	Exsanguíneo  transfusão	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40403300	Operação de processadora automática de sangue em aférese	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40403319	Operação de processadora automática de sangue em autotransfusão intra-operatória	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40403866	Transfusão fetal intra-uterina	13/02/2009	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404021	Aférese para paciente ABO incompatível	09/09/2010	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404102	Depleção de plasma em TCTH alogênicos com incompatibilidade ABO menor	09/09/2010	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404250	Sedimentação de hemácias em TCTH alogênicos com incompatibilidade ABO maior	09/09/2010	31/10/2021	15/10/2010	Inativado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809153	Punção biópsia/aspirativa de órgão ou estrutura orientada por RX (não inclui o exame de base)	10/10/2012	31/07/2021	31/08/2014	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809161	Punção biópsia/aspirativa de órgão ou estrutura orientada por US (não inclui o exame de base)	10/10/2012	31/07/2021	31/08/2014	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809170	Punção biópsia/aspirativa de órgão ou estrutura orientada por TC (não inclui o exame de base)	10/10/2012	31/07/2021	31/08/2014	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809188	Punção biópsia/aspirativa de órgão ou estrutura orientada por RM (não inclui o exame de base)	10/10/2012	31/07/2021	31/08/2014	Inativado por alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912270	Ateromectomia rotacional, direcional ou extracional, com ou sem angioplastia por balão, com ou sem implante de stent	01/07/2021	31/07/2021	15/10/2010	Inativado por Alteração
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912270	Aterectomia rotacional, direcional ou extracional, com ou sem angioplastia por balão, com ou sem implante de stent	01/08/2021		15/10/2010	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101252	Ativação do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101260	Mapeamento e balanceamento dos eletrodos do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101295	Troca do processador de áudio do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101422	Monoximetria não invasiva (Coex)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30303117	Crioterapia conjuntival	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30310130	Iridoplastia periférica a laser	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30404169	Substituição do ímã do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30404185	Neurotelemetria transoperatória do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602459	Retirada de prótese de mama - unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912326	Reparo transcateter valvar mitral 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912334	Implante transcateter de válvula pulmonar (ITVP)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31004350	Desarterialização hemorroidária transanal com mucopexia guiada por doppler	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31104304	Retirada de implante no tratamento da incontinência urinária masculina - esfincter artificial	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303331	Implante subdérmico hormonal para contracepção - inserção	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309240	Cordocentese guiada por ultrassonografia	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31401414	Localização/intervenção estereotáxica de lesões/estruturas de crânio por neuronavegação com intervenção	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40103919	Vídeoeletroencefalograma contínua invasiva para avaliação de tratamento cirúrgico de epilepsia - a cada 12 horas	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40103927	Teste de impulso cefálico ou vHIT (Vídeo Head Impulse Teste (Vídeo HT))	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202801	Colocação endoscópica de balão intragástrco de curta permanência (6 meses)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202810	Colocação endoscópica de balão intragástrico de longa permanência (9 - 12 meses)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202828	Calibração endoscópica de balão de longa permanência	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202836	Retirada endoscópica de balão intragástrico	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40314570	Identificação multiplex por PCR painel com até 25 agentes	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40314588	Identificação multiplex por PCR painel com 26 a 40 agentes	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40314596	Quantificação de TRECs e KRECs	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40314600	Teste molecular para nódulos de tireoide por perfil de microRNA (miRNA), por nódulo	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40314626	PCR em tempo real para vírus influenza A e B	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40317498	Dosagem de p2PSA	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324656	Anticorpo anti-NMDAR	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324664	Anticorpo anti-MOG	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324672	Anticorpo anti-AMPAR, dosagem sangue	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324680	Anticorpos anti-GABAR	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324699	Anticorpos anti-LGI1, dosagem sangue	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324702	Anticorpos anti-CASPR2	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324710	Anticorpos anti-HMG-CoA redutase (anti-hmgcoar), dosagem	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324729	Anticorpos anti tiroquinase músculo específica (anti-MUSK), dosagem	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324737	Anticorpos anti-VGKC, dosagem	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324745	Anticorpo anti-LGi1, dosagem líquor	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324753	Anticorpo anti-AMPAR, dosagem líquor	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324761	Anti HU (ANNA1), dosagem líquor	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402223	Operação  de  processadora de  sangue  em  fotoaférese  extra  corpórea  (FEC) 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404579	Identificação de anticorpos anti-eritrocitários a frio em gel	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503860	Captura/Amplificação e subsequente sequenciamento de regiões genômicas DE ATÉ 20 KILOBASES DE DNA TUMORAL PARA ANÁLISE DE MUTAÇÕES SOMÁTICAS por qualquer técnica de sequenciamento (Sanger ou qualquer forma de sequenciamento de nova geração – NGS)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503879	Captura/Amplificação e subsequente sequenciamento de regiões genômicas DE 20 KILOBASES A 1 MEGABASE DE DNA TUMORAL PARA ANÁLISE DE MUTAÇÕES SOMÁTICAS por qualquer técnica de sequenciamento (Sanger ou qualquer forma de sequenciamento de nova geração – NGS)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503887	Captura/Amplificação e subsequente sequenciamento de regiões genômicas DE 1 MEGABASE A 30 MEGABASES DE DNA TUMORAL PARA ANÁLISE DE MUTAÇÕES SOMÁTICAS por qualquer técnica de sequenciamento (Sanger ou qualquer forma de sequenciamento de nova geração – NGS) 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503895	"Captura/Amplificação e subsequente sequenciamento de regiões genômicas DE MAIS DE 30 MEGABASES DE DNA TUMORAL PARA ANÁLISE DE MUTAÇÕES SOMÁTICAS por qualquer técnica de sequenciamento (Sanger ou qualquer forma de sequenciamento de nova geração – NGS); INCLUI EXOMA TUMORAL"	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503909	Quantificação  de  proteína  beta  amilóide-42,  no  líquido  cefalorraquidiano  (LCR)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503917	Quantificação de carga viral HIV-1 (HIV RNA) no líquido cefalorraquidiano (LCR)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503925	Quantificação  de  proteína  Tau-fosforilada,  no  líquido  cefalorraquidiano  (LCR)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503933	Quantificação de proteína Tau-Total, no líquido cefalorraquidiano (LCR)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503941	Detecção  de  anticorpo  IgG  anti-HTLV-1/2  no  líquido  cefalorraquidiano  (LCR)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40503950	Painel multiplex infeccioso no líquor - painel com até 25 agentes	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40708136	PET CT neurológico com FDG	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40710122	Tratamento de metástases ósseas com isótopos alfa emissor - por dia de atendimento (até o início do próximo ciclo - intervalo de 4 a 8 semanas)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40808319	Colocação de clipes(s) pré QT neoadjuvante em axila – cada lado (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40808327	Colocação de clipes(s) pré QT neoadjuvante em mama – cada lado (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40812162	"Cone beam CT ou Tomografia Computadorizada em ""Feixe Cônico"" intra operatória"	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40814181	Ablação percutânea de tumor renal (qualquer método) 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40814190	Embolização das artérias prostáticas, por vaso 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40814203	Neurólise de plexo nervoso guiado por tomografia computadorizada	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40814211	Radioembolização hepática	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40814238	Termoablação para nódulos benignos de tireoide	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901777	Ecocardiograma transtorácico tridimensional	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901785	Ecocardiograma transesofágico tridimensional	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901807	Ecocardiograma transtorácico com STRAIN bidirecional (inclui transtorácico)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901815	US - Órgão ou estrutura isolada com contrate microbolhas	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901831	Elastografia por onda de cisalhamento (shear wave) da próstata dirigida por ultrassonografia modo B	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40901840	Elastografia por onda de cisalhamento (shear wave) de estrutura superficial dirigida por ultrassonografia modo B (mama ou cervical ou axila ou músculo ou tendão ou tireóide)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41301560	Campimetria blue-yellow (perimetria azul amarelo)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501276	Biometria óptica 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501284	Tomografia por impedância elétrica do tórax	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501292	Titulação da PEEP decremental orientada por tomografia por impedância elétrica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501306	Perfusão pulmonar por tomografia por impedância elétrica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501314	Angiografia de grande angular (AGA)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501322	Angiotomografia ocular (ATO)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30307147	Tratamento ocular quimioterápico com anti-angiogênico (por sessão)	01/08/2021		31/08/2014	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303102	Histerectomia total - via abdominal	01/08/2021		15/10/2010	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303188	Histeroscopia com ressectoscópio para polipectomia, metroplastia, endometrectomia e ressecção de sinéquias	01/08/2021		15/10/2010	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309046	Cerclagem do colo uterino via vaginal	01/08/2021		15/10/2010	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809153	Punção biópsia/aspirativa de órgão ou estrutura superficial orientada por RX (não inclui o exame de base)	01/08/2021		31/08/2014	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809161	Punção biópsia/aspirativa de órgão ou estrutura superficial orientada por US (não inclui o exame de base)	01/08/2021		31/08/2014	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809170	Punção biópsia/aspirativa de órgão ou estrutura superficial orientada por TC (não inclui o exame de base)	01/08/2021		31/08/2014	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809188	Punção biópsia/aspirativa de órgão ou estrutura superficial orientada por RM (não inclui o exame de base)	01/08/2021		31/08/2014	Alterado
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	10106162	Atendimento para avaliação oftalmológica ao recém-nascido em berçário ou UTI	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101244	Avaliação e seleção para implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101287	Reflexo estapediano eliciado eletricamente unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101309	Avaliação clínica pré coleta de líquor no teste de punção lombar única ou repetida – TAP test	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101317	Avaliação clínica pós coleta de líquor no teste de punção lombar única ou repetida – TAP test	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101325	Avaliação e diagnóstico de morte encefálica - exame clínico que confirme coma não perceptivo e ausência de função tronco encefálico	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101333	Avaliação e diagnóstico de morte encefálica - teste de apneia que confirme ausência de movimentos respiratórios após estimulação máxima dos centros respiratórios	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101341	Avaliação neurológica ampla - ANA	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101368	Teste de provocação oral (TPO) com alimentos	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101376	Teste cutâneo de puntura ou intradérmico com medicamentos (até 3 drogas)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101384	Teste de provocação com medicamentos via oral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101392	Teste de provocação com medicamentos via injetável	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101414	Acompanhamento clínico ambulatorial do tabagista, por avaliação, do 1º ao 90º dia, até 7 avaliações clínicas	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101430	Acompanhamento clínico ambulatorial do pós-operatório de cirurgia de catarata congênita ou glaucoma congênito, por avaliação do 11º ao 30º dias, até 3 avaliações, em consultório	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101449	Acompanhamento clínico ambulatorial da retinopatia da prematuridade por avaliação do 1º ao 30º dia, até 5 avaliações, em consultório	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101457	Acompanhamento clínico ambulatorial de uveítes anteriores agudas e/ou coriorrenites focais ou disseminadas em atividade por avaliação do 1º ao 30º dia, até a5 avaliações, em consultório	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20102151	Gestão de pacientes com apneia obstrutiva do sono elegíveis para tratamento com pressão positiva contínua em via aérea	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20102160	Monitorização ambulatorial da pressão arterial de 5 dias - MAPA 5d	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20102178	Monitorização contínua da insuficiência respiratória em pacientes com esclerose lateral amniotrófica (ELA) que necessitam de assitência ventilatória não-invasiva	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20104456	Tratamento preventivo da migrânea crônica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20104472	Terapia subcutânea com imunoglobulina humana policlonal	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20104499	Terapia biológica anti-reabsortiva óssea subcutânea - ambulatorial	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20104502	Terapia anabólica óssea subcutânea - ambulatorial	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20201150	Acompanhamento clínico hospitalar do tabagista em síndrome de abstinência, por avaliação, com visitas pós internação e pré alta, limitada a 2	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20204213	Terapia biológica anti-reabsortiva óssea subcutânea - hospitalar	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20204221	Terapia anabólica óssea subcutânea - hospitalar	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30303125	Reconstrução de superfície ocular com membrana amniótica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30304130	Preparo da membrana amniótica para procedimentos oftalmológicos	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30304148	Planejamento personalizado da ablação refrativa com base na análise da frente de onda ocular total ou da córnea (monocular)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30306086	Implante refrativo de lente intraocular fácica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30404150	Procedimento cirúrgico de implante coclear unilateral (primeira implantação ou substituição)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602360	Mamoplastia feminina (com ou sem uso de implantes mamários) pós-bariátrica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602378	Mamoplastia masculina pós-bariátrica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602386	Adenomastectomia / mastectomia preservadora de pele, aréola e papila	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602394	Adenomastectomia com redução de excesso de pele	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602408	Capsulectomia - ressecção de cápsula da prótese unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602416	Mastectomia preservadora de pele	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602424	Papilectomia de mama - unilateral 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602432	Reconstrução mamária com retalho livre microcirúrgico	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602440	Reposicionamento com complexo aréolo-papilar - unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30602467	Reconstrução mamária com retalho miocutâneo de grande dorsal 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30806062	Hérnia diafragmática congênita - tratamento cirúrgico (qualquer via)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30806070	Hérnia diafragmática congênita - tratamento cirúrgico por vídeo	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912300	Oclusão do apêndice atrial esquerdo	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30912318	Angioplastia transluminal percutânea por balão para tratamento de oclusão coronária crônica com ou sem stent	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30918049	Avaliação do limiar de desfibrilação ventricular	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31101607	Pieloplastia na criança	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31101615	Pieloplastia laparoscópica unilateral na criança	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31203167	Tumor testicular na criança	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303340	Implante subdérmico hormonal para contracepção - remoção	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303374	Implante de dispositivo intra-uterino (DIU) hormonal - remoção	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303382	Implante de dispositivo intra-uterino (DIU) não hormonal - remoção	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31307299	Endometriose  profunda - tratamento cirúrgico (não inclui ureterólise e abordagem de outros órgãos pélvicos)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309267	Tamponamento uterino para hemorragia pós-parto (pós-cesárea ou parto vaginal) - qualquer tipo de balão intrauterino	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31603017	Atendimento médico do plantonista em sala de recuperação pós-anestésica geral ou pediátrica, por paciente, por hora (até 6 horas)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202780	Biópsia endoscópica por órgão	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40202798	Ecobroncoscopia com punção aspirativa com agulha fina	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40324800	Teste anti-SARS-CoV-2 (Coronavírus COVID-19), pesquisa quantitativa de anticorpos (IgG) neutralizantes	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40325016	Teste SARS-COV-2 (Coronavírus COVID-19), teste rápido para anticorpos totais, IgM ou IgG, IgM e IgG	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402231	Material descartável contendo kit para sistema integrado de FEC e solução fotossensibilizante	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404552	Controle bacteriológico para concentrado de plaquetas	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40404560	Pesquisa de anticorpos séricos irregulares antieritrocitários - método de eluição - gel teste	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41301579	Tonometria - binocular - indicação específica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41301587	Gonioscopia - binocular - indicação específica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41301595	Mapeamento de retina - monocular - indicação específica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41401743	Teste de integridade do implante coclear unilateral	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501330	Paquimetria ultrassônica - monocular - indicação específica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	41501349	Biometria ultrassônica (Ecobiometria) - monocular - indicação específica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101279	Potencial evocado eletricamente no sistema auditivo central	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101350	Programação de dispositivos neurofuncionais	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	20101406	Acompanhamento clínico ambulatorial pós-cirurgia fistulizante antoglaucomatosa - por avaliação do 11º ao 30º dia, até três avaliações	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30312140	Fármaco modulação com anti-angiogênico para retinopatia diabética e obstrução venosa retiniana	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30918057	Punção do saco pericárdico com introdução de cateter multipolar no espaço pericárdico	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	30918065	Punção transeptal com introdução de cateter multipolar nas câmaras esquerdas e/ou veias pulmonares 	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303358	Histerectomia total - via vaginal	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31303366	Histeroscopia com ressectoscópio para miomectomia	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309283	Cerclagem do colo uterino via abdominal	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	31309291	Cerclagem do colo uterino via laparoscópica	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40401030	Exsanguíneo  transfusão	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40401049	Transfusão fetal intra-uterina	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40401057	Aférese para paciente ABO incompatível	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402185	Operação de processadora automática de sangue em aférese	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402193	Operação de processadora automática de sangue em autotransfusão intra-operatória	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402207	Depleção de plasma em TCTH alogênicos com incompatibilidade ABO menor	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40402215	Sedimentação de hemácias em Transplante de Células-Tronco Hematopoéticas (TCTH) alogênicos com incompatibilidade ABO maior	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809196	Punção biópsia/aspirativa de órgão ou estrutura profunda orientada por RM (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809200	Punção biópsia/aspirativa de órgão ou estrutura profunda orientada por RX (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809218	Punção biópsia/aspirativa de órgão ou estrutura profunda orientada por TC (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	22	Terminologia de procedimentos e eventos em saúde	40809226	Punção biópsia/aspirativa de órgão ou estrutura profunda orientada por US (não inclui o exame de base)	01/08/2021		31/10/2021	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	221205	Biomédico	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224105	Avaliador físico	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224110	Ludomotricista	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224115	Preparador de atleta	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224120	Preparador físico	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224125	Técnico de desporto individual e coletivo (exceto futebol)	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224130	Técnico de laboratório e fiscalização desportiva	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	224135	Treinador profissional de futebol	01/08/2021		31/07/2022	Incluído
+Julho/2021	24	Terminologia do código brasileiro de ocupação (CBO)	226305	Musicoterapeuta	01/08/2021		31/07/2022	Incluído
+Julho/2021	26	Terminologia de conselho profissional	11	Conselho Regional de Biologia (CRBio)	01/08/2021		31/07/2022	Incluído
+Julho/2021	26	Terminologia de conselho profissional	12	Conselho Regional de Biomedicina (CRBM)	01/08/2021		31/07/2022	Incluído
+Julho/2021	26	Terminologia de conselho profissional	13	Conselho Regional de Educação Física (CREF)	01/08/2021		31/07/2022	Incluído
+Julho/2021	26	Terminologia de conselho profissional	14	Conselho Regional de Medicina Veterinária (CRMV)	01/08/2021		31/07/2022	Incluído
+Julho/2021	26	Terminologia de conselho profissional	15	Conselho Regional de Técnicos em Radiologia (CRTR)	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3160	Time Out - tente novamente	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3161	Prazo de envio fora do período contratual acordado entre as partes	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3162	Código do protocolo não encontrado	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3163	Não necessita de imagem	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3164	Arquivo enviado não é de imagem	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3165	Arquivo de imagem corrompido	01/08/2021		31/07/2022	Incluído
+Julho/2021	38	Terminologia de mensagens (glosas,  negativas e outras)	3166	Arquivo enviado excede o tamanho máximo permitido	01/08/2021		31/07/2022	Incluído
+Julho/2021	40	Terminologia de origem da guia	5	Prestador eventual	01/08/2021		31/07/2022	Incluído
+Julho/2021	50	Terminologia de Tipo de Atendimento	05	Exame Ambulatorial	10/11/2005	31/07/2022	10/11/2005	Inativado por alteração
+Julho/2021	50	Terminologia de Tipo de Atendimento	05	Exame	01/08/2021		10/11/2005	Alterado
+Julho/2021	50	Terminologia de Tipo de Atendimento	06	Atendimento Domiciliar	10/11/2005	31/07/2022	10/11/2005	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	07	Internação	10/11/2005	31/07/2022	10/11/2005	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	11	Pronto Socorro 	10/10/2012	31/07/2022	30/11/2013	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	14	Saúde Ocupacional - Admissional	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	15	Saúde Ocupacional - Demissional	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	16	Saúde Ocupacional - Periódico	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	17	Saúde Ocupacional - Retorno ao trabalho	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	18	Saúde Ocupacional - Mudança de função	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	19	Saúde Ocupacional - Promoção a saúde	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	20	Saúde Ocupacional - Beneficiário novo	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	21	Saúde Ocupacional - Assistência a demitidos	01/12/2013	31/07/2022	31/08/2014	Inativado
+Julho/2021	50	Terminologia de Tipo de Atendimento	22	TELESSAÚDE	03/04/2020	31/07/2022	03/04/2020	Inativado
+Julho/2021	56	Terminologia de natureza da guia	3	Recurso de glosa	01/08/2021		31/07/2022	Incluído
+Julho/2021	69	Terminologia de versão do componente de comunicação do padrão	023	04.00.00	01/08/2021		31/07/2022	Incluído
+Julho/2021	75	Terminologia de Cobertura especial	01	Gestante	01/08/2021		31/07/2022	Incluído
+Julho/2021	75	Terminologia de Cobertura especial	02	Pré-operatório	01/08/2021		31/07/2022	Incluído
+Julho/2021	75	Terminologia de Cobertura especial	03	Pós-operatório	01/08/2021		31/07/2022	Incluído
+Julho/2021	76	Terminologia de Regime de atendimento	01	Ambulatorial	01/08/2021		31/07/2022	Incluído
+Julho/2021	76	Terminologia de Regime de atendimento	02	Domiciliar 	01/08/2021		31/07/2022	Incluído
+Julho/2021	76	Terminologia de Regime de atendimento	03	Internação	01/08/2021		31/07/2022	Incluído
+Julho/2021	76	Terminologia de Regime de atendimento	04	Pronto-socorro	01/08/2021		31/07/2022	Incluído
+Julho/2021	76	Terminologia de Regime de atendimento	05	TELESSAÚDE	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	01	Admissional	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	02	Demissional	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	03	Periódico	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	04	Retorno ao trabalho	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	05	Mudança de função	01/08/2021		31/07/2022	Incluído
+Julho/2021	77	Terminologia de Saúde ocupacional	06	Promoção à saúde	01/08/2021		31/07/2022	Incluído
+Julho/2021	78	Terminologia de Tipo de Pagamento	1	Inicial	01/08/2021		31/07/2022	Incluído
+Julho/2021	78	Terminologia de Tipo de Pagamento	2	Recurso	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	01	Por procedimento (Fee for Service)	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	02	Pacote	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	03	Orçamentação	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	04	Capitation (capitação)	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	05	DRG	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	06	Bundle baseado em episódio	01/08/2021		31/07/2022	Incluído
+Julho/2021	79	Terminologia de Modelos de Remuneração entre Operadoras e Prestadores	07	Bundle por condição clínica	01/08/2021		31/07/2022	Incluído
+Julho/2021	80	Terminologia  de formato do documento	01	JPG ou JPEG	01/08/2021		31/07/2022	Incluído
+Julho/2021	80	Terminologia  de formato do documento	02	PDF	01/08/2021		31/07/2022	Incluído
+Julho/2021	80	Terminologia  de formato do documento	03	PNG	01/08/2021		31/07/2022	Incluído
+Julho/2021	80	Terminologia  de formato do documento	04	TIFF	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	1	Comprovante de elegibilidade	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	2	Laudo do profissional de saúde	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	3	Pedido do profissional de saúde	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	4	Relatório do profissional de saúde	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	5	Prescrição do profissional de saúde	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	6	Comprovante de comparecimento (assinatura)	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	7	Embalagem/rótulo de materiais e/ou medicamentos	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	8	Comprovante de entrega de medicamentos	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	9	Notas fiscais	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	10	Boletim anestésico	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	11	Selos hemoterápicos	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	12	Exames de imagem	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	13	Exames de análises clínicas	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	14	Termo de consentimento	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	15	Guia de cobrança de taxa	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	16	Autorização prévia 	01/08/2021		31/07/2022	Incluído
+Julho/2021	81	Terminologia  de Tipo do documento	17	Relatório de Auditoria	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	75	Cobertura especial	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	76	Regime de atendimento	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	77	Saúde ocupacional	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	78	Tipo de Pagamento	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	79	Modelos de Remuneração entre Operadoras e Prestadores	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	80	Formato do documento	01/08/2021		31/07/2022	Incluído
+Julho/2021	87	Terminologias unificadas da saúde suplementar	81	Tipo do documento	01/08/2021		31/07/2022	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101252	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101260	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101295	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101422	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30303117	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30310130	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30404169	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30404185	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602459	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30912326	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30912334	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31004350	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31104304	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303331	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31309240	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31401414	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40103919	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40103927	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202801	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202810	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202828	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202836	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40314570	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40314588	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40314596	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40314600	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40314626	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40317498	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324656	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324664	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324672	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324680	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324699	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324702	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324710	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324729	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324737	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324745	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324753	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324761	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402223	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40404579	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503860	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503879	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503887	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503895	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503909	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503917	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503925	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503933	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503941	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40503950	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40708136	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40710122	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40808319	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40808327	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40812162	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40814181	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40814190	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40814203	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40814211	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40814238	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901777	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901785	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901807	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901815	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901831	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40901840	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41301560	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501276	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501284	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501292	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501306	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501314	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501322	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	10106162	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101244	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101287	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101309	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101317	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101325	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101333	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101341	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101368	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101376	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101384	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101392	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101414	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101430	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101449	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101457	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20102151	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20102160	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20102178	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104456	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104472	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104499	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20104502	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20201150	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20204213	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20204221	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30303125	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30304130	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30304148	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30306086	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30404150	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602360	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602378	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602386	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602394	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602408	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602416	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602424	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602432	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602440	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30602467	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30806062	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30806070	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30912300	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30912318	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30918049	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31101607	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31101615	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31203167	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303340	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303374	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303382	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31307299	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31309267	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31603017	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202780	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40202798	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40324800	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40325016	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402231	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40404552	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40404560	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41301579	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41301587	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41301595	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41401743	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501330	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	41501349	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101279	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101350	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	20101406	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30312140	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30918057	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	30918065	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303358	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31303366	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31309283	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	31309291	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40401030	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40401049	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40401057	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402185	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402193	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402207	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40402215	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40809196	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40809200	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40809218	Individualizado	01/08/2021		31/10/2021	Incluído
+Julho/2021	64	Terminologia de Forma de Envio de Dados para a ANS	40809226	Individualizado	01/08/2021		31/10/2021	Incluído
